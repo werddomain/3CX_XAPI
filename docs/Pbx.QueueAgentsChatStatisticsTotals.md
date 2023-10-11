@@ -1,0 +1,12 @@
+# IO.Swagger.Model.PbxQueueAgentsChatStatisticsTotals
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**AnsweredCount** | **long?** |  | [optional] 
+**DealtWithCount** | **long?** |  | [optional] 
+**Queue** | **string** |  | [optional] 
+**QueueDisplayName** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

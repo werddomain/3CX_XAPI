@@ -1,0 +1,9 @@
+# IO.Swagger.Model.TrunksTelegramSessionRequestBody
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Model** | [**PbxXTelegramAuth**](PbxXTelegramAuth.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
